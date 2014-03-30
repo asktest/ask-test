@@ -1,2 +1,2 @@
-ask-test
-========
+run:
+gradlew clean test

@@ -1,0 +1,27 @@
+# Package Files #
+*.war
+*.ear
+\.orig$
+\.orig\..*$
+\.chg\..*$
+\.rej$
+\.conflict\~$
+target/
+build/
+.idea/
+.gradle/
+*.iml
+nbactions.*\.xml$
+nb-configuration.xml$
+\.log$
+\.tar\.gz$
+\.class$
+\.DS_Store$
+\.iml$
+\.ipr$
+\.iws$
+\.directory$
+\.idea\/
+\.idea\\
+syntax: glob
+*.groovy~
